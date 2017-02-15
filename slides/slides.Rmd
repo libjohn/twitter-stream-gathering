@@ -61,19 +61,19 @@ Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharin
 
 ---
 class: center, middle
-background-image:  url(slides/images/tags-screen1.png)
+background-image:  url(images/tags-screen1.png)
 
 ---
 class: center, middle
-background-image:  url(slides/images/gsheets-results1.png)
+background-image:  url(images/gsheets-results1.png)
 
 ---
 class: center, middle
-background-image:  url(slides/images/network-graph.png)
+background-image:  url(images/network-graph.png)
 
 ---
 class: center, middle
-background-image:  url(slides/images/splunk.png)
+background-image:  url(images/splunk.png)
 
 https://www.splunk.com/en_us/solutions/industries/higher-education/academic-licenses.html
 
