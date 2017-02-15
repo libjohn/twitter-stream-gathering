@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Twitter Steream Gathering</title>
+    <meta charset="utf-8">
+    <meta name="author" content="John Little" />
+    <meta name="date" content="2017-02-15" />
+    <link href="libs/remark-css/example.css" rel="stylesheet" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# Twitter Steream Gathering
+## <br>A DVS presentation
+### John Little
+### 2017-02-15
+
+---
+
+exclude: true
+class: center, middle
+background-image:  url(http://library.duke.edu/data/sites/default/files/datagis/images/data_gis_logo.png)
+
+
+
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
+
+???
+
+Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharingan_triple.svg)
+
+---
+
+## Social Media
+
+1. Many ways to gather social media data
+
+    - IFTTT where you compose rules to connect sites and can deposit data in a spreadsheet
+    - APIs - often requires registered keys
+    - Buy your data from a service such as GNIP
+    
+2. After you download it you may want to perform analysis
+
+    - Sentiment Analysis, Word Frequency, Correlation, etc.
+    - Text Analysis tools (from [Digital Humanities LibGuide](http://guides.library.duke.edu/text_analysis))
+    - Digital Studio’s program on working with Texts: Comparing and choosing texts analysis tools
+
+---
+
+## TAGS:  a tool for collecting Twitter streams
+
+- TAGS (“New Sheets”; Version 6.0ns) - https://tags.hawksey.info/
+
+    - Form driven (not command line)
+    - Minimal setup
+    - Data are collected in Google Sheets
+    - Gather twitter stream data by type
+        - screen-name stream data
+        - screen-name status updates
+        - twitter user favorited tweets
+        - Search term for last 7 days:  hashtag stream, username, boolean logic
+        - Limit by date
+        - Schedule to run hourly - set your interval, or run once.
+        - 3 minute setup-video; easy to use - https://youtu.be/Vm0kjAvH5HM 
+        - Outputs:  raw CSV structured data, plus default social graph visualizations
+
+---
+class: center, middle
+background-image:  url(slides/images/tags-screen1.png)
+
+---
+class: center, middle
+background-image:  url(slides/images/gsheets-results1.png)
+
+---
+class: center, middle
+background-image:  url(slides/images/network-graph.png)
+
+---
+class: center, middle
+background-image:  url(slides/images/splunk.png)
+
+https://www.splunk.com/en_us/solutions/industries/higher-education/academic-licenses.html
+
+---
+
+## Resources
+
+- TAGS - https://tags.hawksey.info/
+
+- Splunk - Academic Program - https://www.splunk.com/en_us/solutions/industries/higher-education/academic-licenses.html
+    </textarea>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true
+});
+if (window.HTMLWidgets) slideshow.on('showSlide', function (slide) {setTimeout(function() {window.dispatchEvent(new Event('resize'));}, 100)});</script>
+
+  </body>
+</html>
