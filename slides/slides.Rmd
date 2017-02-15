@@ -60,15 +60,12 @@ Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharin
         - Outputs:  raw CSV structured data, plus default social graph visualizations
 
 ---
-class: center, middle
 background-image:  url(images/tags-screen1.png)
 
 ---
-class: center, middle
 background-image:  url(images/gsheets-results1.png)
 
 ---
-class: center, middle
 background-image:  url(images/network-graph.png)
 
 ---
