@@ -1,5 +1,5 @@
 ---
-title: "Twitter Steream Gathering"
+title: "Twitter Stream Gathering"
 subtitle: "<br>A DVS presentation"
 author: "John Little"
 date: "`r Sys.Date()`"
