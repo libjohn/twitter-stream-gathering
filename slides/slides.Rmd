@@ -82,7 +82,20 @@ https://www.splunk.com/en_us/solutions/industries/higher-education/academic-lice
 
 - Splunk - Academic Program - https://www.splunk.com/en_us/solutions/industries/higher-education/academic-licenses.html
 
+---
 
+## Next Steps...
+
+### Text Analysis
+
+- Voyant - Text Analysis
+- Gephi - Network Graph Analysis
+- Lib Guides
+
+    - http://guides.library.duke.edu/text_analysis
+    - http://guides.library.duke.edu/digital_humanities 
+    
+- R and it's many packages
 
 
 
