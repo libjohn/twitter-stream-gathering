@@ -1,0 +1,31 @@
+# body{
+#	background-color: #0680CD;
+#	color: rgb(255,217,96)
+# }
+
+a, a > code {
+  color: rgb(161,183,13);
+  text-decoration: none;
+}
+
+h1, h2, h3 {
+  color: #339999;
+}
+ 
+.orange {
+	background-color: #F09905;
+}
+
+.orange a, .orange a > code {
+	color: rgb(114,131,2);
+	text-decoration: none;
+}
+
+.inverse_o {
+  background-color: #272822;
+  color: #F09905;
+  text-shadow: 0 0 20px #333;
+}
+.inverse_o h1, .inverse_o h2, .inverse_o h3 {
+  color: #339999;
+  line-height: 0.8em;
