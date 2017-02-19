@@ -263,7 +263,7 @@ class: orange
 
 #### Schedule Me
 
-- [http://v.gd/littleconsult](http://duke.libcal.com/appointment/2695)
+- [http:&#47;&#47;v.gd&#47;littleconsult](http://duke.libcal.com/appointment/2695)
 ]
 
 .pull-right[
@@ -282,5 +282,13 @@ class: orange
 #### Contact Us
 - askData@Duke.edu
 ]
+
+---
+class: center, middle
+## Shareable under CC BY-NC-SA license 
+
+Data, presentation, and handouts are shareable under [CC BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/)
+
+![This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.](https://licensebuttons.net/l/by-nc/4.0/88x31.png "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License")
 
 
