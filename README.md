@@ -11,7 +11,7 @@ PART OF: | [Research Data at the Edge](http://library.duke.edu/edge/events/rc17)
 
 ## Presentation Materials...
 
-* http://libjohn.github.io/twitter-gather/
+* http://www.johnlittle.info/presentation/twitter-presentation-test/
   * slides
   * demonstration
   * hands-on
